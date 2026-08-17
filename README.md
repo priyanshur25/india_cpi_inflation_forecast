@@ -1,0 +1,1 @@
+# india_cpi_inflation_forecast
