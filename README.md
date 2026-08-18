@@ -1,4 +1,3 @@
-# india_cpi_inflation_forecast
 # India CPI Inflation Forecasting
 
 ## Problem Statement
