@@ -7,4 +7,5 @@ prophet
 scikit-learn
 xgboost
 jupyter
-pmdarimastreamlit
+pmdarima
+streamlit
